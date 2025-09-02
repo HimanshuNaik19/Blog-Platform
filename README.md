@@ -1,4 +1,4 @@
-# Blog Platform
+# Blog Platform - React Frontend
 
 A modern, responsive React frontend for the MERN Stack Blog Platform. This application provides a clean, intuitive interface for reading, creating, and managing blog posts.
 
@@ -163,6 +163,10 @@ npm test
 4. Push to the branch (\`git push origin feature/amazing-feature\`)
 5. Open a Pull Request
 
+# 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## 🆘 Support
 
 For support and questions:
@@ -171,4 +175,6 @@ For support and questions:
 - Review the API endpoints in the backend documentation
 
 ---
+
+Built with ❤️ using React and modern web technologies.
 \`\`\`
